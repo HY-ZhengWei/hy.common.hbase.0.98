@@ -1,0 +1,4 @@
+Manifest-Version: 1.5.0
+Created-By: HY.ZhengWei@qq.com  2014
+Specification-Version: 1.5.0  2014-06
+SourceCode: https://github.com/HY-ZhengWei/hy.common.hbase.0.98.x
